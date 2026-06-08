@@ -124,25 +124,6 @@ Store screenshots inside:
 
 ---
 
-## Project Structure
-
-tableau-hr-analytics-dashboard/
-
-├── data/
-│   └── HR_Data.xlsx
-│
-├── dashboard/
-│   └── HR_Dashboard.twbx
-│
-├── images/
-│   ├── dashboard-overview.png
-│   ├── salary-analysis.png
-│   ├── demographics.png
-│   └── leave-analysis.png
-│
-└── README.md
-
----
 
 ## Key Insights
 
@@ -183,10 +164,9 @@ tableau-hr-analytics-dashboard/
 
 Dheeraj Sharma
 
-B.Tech (CSA - AI & ML)
+MCA (AI & Data Science)
 
 Aspiring Data Analyst | Tableau Developer | Data Visualization Enthusiast
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/dheeraj-sharma-84b352213/
 
-GitHub: Add Your GitHub Profile
